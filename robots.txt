@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://doxooghoon.mpietrek.pl/sitemap.xml
